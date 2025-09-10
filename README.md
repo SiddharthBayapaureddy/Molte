@@ -36,4 +36,4 @@
 
 
 ## Demo 
-![Molte Chatbot Screenshot](molte/demo/image.png)
+![Molte Chatbot Screenshot](demo/image.png)
